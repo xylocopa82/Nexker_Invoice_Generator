@@ -1,23 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-=====================================================================
-  NEXKER Web & Digital Solutions — Invoice Generator
-=====================================================================
-  * Professional PDF invoices  (INR / AED / USD)
-  * Saves PDF to a local folder you choose
-  * Uploads a backup copy to Google Drive
-  * Print directly, or send via WhatsApp / Email
-
-  INSTALL (one time):
-      pip install fpdf2
-      # only needed for Google Drive upload:
-      pip install google-api-python-client google-auth-oauthlib
-
-  RUN:
-      python nexker_invoice.py
-=====================================================================
-"""
 
 import os
 import re
