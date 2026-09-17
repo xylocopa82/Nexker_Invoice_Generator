@@ -1,0 +1,10 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# PyInstaller build artifacts
+build/
+dist/
+
+# Local application settings (may contain credentials and machine-specific paths)
+nexker_settings.json
